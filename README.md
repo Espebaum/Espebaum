@@ -35,10 +35,8 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=espebaum)](https://solved.ac/espebaum)
 
 ### ✔️ ɢɪᴛʜᴜʙ sᴛᴀᴛs ✔️
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Espebaum&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Espebaum&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=espebaum&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Espebaum&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 ### ✔️ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴs ✔️
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Espebaum&theme=react&custom_title=힘내서%20커밋)](https://github.com/ashutosh00710/github-readme-activity-graph)
