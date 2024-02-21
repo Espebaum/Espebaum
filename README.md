@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=GYOPARK&fontSize=80)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&height=100&lines=as+known+as+Espebaum)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&height=25&lines=as+known+as+Espebaum)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=61DAFB" />
 
