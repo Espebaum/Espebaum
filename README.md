@@ -4,10 +4,30 @@
 
 <br/>
 
+
+### 🔎 ᴍʏ ʙʟᴏɢ 🔎 
+<a href="https://espebaum.github.io/">
+    <img src="https://img.shields.io/badge/Github%20Page-black?style=for-the-badge&logo=github">
+    <p>  
+      "ʜᴛᴛᴘs://ᴇsᴘᴇʙᴀᴜᴍ.ɢɪᴛʜᴜʙ.ɪᴏ/"
+    </p>
+</a>
+
+### ✉️ ᴄᴏɴᴛᴀᴄᴛ ✉️
+<div>
+<a href="mailto:vocops5000@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vocops5000@gmail.com"/>
+  <p>
+    "ᴠᴏᴄᴏᴘs𝟻𝟶𝟶𝟶@ɢᴍᴀɪʟ.ᴄᴏᴍ"
+  </p>
+</a>
+</div>
+
+
 ### 💚 ɪ ᴄᴀɴ 💚
 <div>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 <br/>
