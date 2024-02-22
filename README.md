@@ -14,7 +14,7 @@
     <a href="mailto:vocops5000@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vocops5000@gmail.com"/>
     </a>
-        <a href="mailto:vocops5000@gmail.com">
+        <a href="https://www.linkedin.com/in/gyoung-min-park-631687296/">
       <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&color=%230A66C2"/>
     </a>
 </div>
