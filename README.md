@@ -34,6 +34,7 @@
 
 ### 💚 ɪ ᴄᴀɴ 💚
 <div>
+<img src="https://img.shields.io/badge/C-%20?style=for-the-badge&logo=C&logoColor=black&color=%23A8B9CC">
 <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
