@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghyen&count_bg=%23FFB1B1&title_bg=%23AAAAAA&icon=trustpilot.svg&icon_color=%23FFE8E8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghyen&count_bg=%23F40D12&title_bg=%23AAAAAA&icon=trustpilot.svg&icon_color=%23FFE8E8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 😀 ᴀʙᴏᴜᴛ ᴍᴇ 😀
 
