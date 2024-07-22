@@ -10,12 +10,16 @@
 
 ![42 Badge](http://img.shields.io/badge/-42seoul-black?style=for-the-badge&logo=42&link=https://profile.intra.42.fr/users/gyopark)<!--&fontSize=90&animation=twinkling&descAlignY=80&customColorList=0,1,1,1,1,1)-->
 ![Google Badge](https://img.shields.io/badge/Google-black?style=for-the-badge&logo=google)
-![gyopark's 42 stats](https://badge.mediaplus.ma/darkblue/gyopark?1337Badge=off&UM6P=off)
 
 <div>
-    <img src="https://services.google.com/fh/files/misc/gfd_mlb_banner01.png" width="50%" height="auto">
-    <p>2024/07/01 ~ </p>
-    <p>구글 머신러닝 부트캠프를 진행하고 있어요</p>
+    <img src="https://apply.42seoul.kr/uploads/admissions/campus/logo_website/18/logo42.svg" width="30%" height="auto">
+    <img src="https://services.google.com/fh/files/misc/gfd_mlb_banner01.png" width="30%" height="auto">
+    <p>2022년 11월부터 42 Seoul 과정 진행 중</p>
+    <p>2024년 7월부터 구글 머신러닝 부트캠프를 진행하고 있어요</p>
+</div>
+
+
+<div>
 </div>
 
 <div>
