@@ -14,10 +14,10 @@
 <div>
     <img src="https://apply.42seoul.kr/uploads/admissions/campus/logo_website/18/logo42.svg" width="30%" height="auto">
     <img src="https://services.google.com/fh/files/misc/gfd_mlb_banner01.png" width="30%" height="auto">
-    <p>42 Seoul: 2022/11/07 ~ 2024/09/30</p>
-    <p>Google Machine Learning Bootcamp: 2024/07/01 ~ 2024/10/04</p>
 </div>
 
+- **42 Seoul**: 2022/11/07 ~ 2024/09/30</p>
+- **Google Machine Learning Bootcamp**: 2024/07/01 ~ 2024/10/04</p>
 
 <div>
 </div>
