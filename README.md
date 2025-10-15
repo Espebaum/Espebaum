@@ -35,7 +35,6 @@
 </div>
 
 <p>
-  🇩🇪 연세대학교 독어독문학과 졸업함(왜 학생때부터 알고리즘안했나 자괴감들고괴로워)<br/>
   🍉 ᴍʏ ʙʟᴏɢ : "https://espebaum.github.io/"<br/>
   ✉️ ᴄᴏɴᴛᴀᴄᴛ  : "vocops5000@gmail.com"<br/>
   ▶ ʟɪɴᴋᴇᴅɪɴ : "https://www.linkedin.com/in/gyoung-min-park-631687296/"
